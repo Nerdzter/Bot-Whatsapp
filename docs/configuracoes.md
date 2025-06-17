@@ -1,0 +1,6 @@
+N8N_BASIC_AUTH_USER=admin
+N8N_BASIC_AUTH_PASSWORD=suasenha
+REDIS_HOST=redis
+REDIS_PORT=6379
+GEMINI_API_KEY=xxxxxx
+WHATSAPP_WEBHOOK_URL=https://seudominio.com/webhook
